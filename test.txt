@@ -4,3 +4,4 @@ commmitした
 またcommitした
 mergeした
 branchつくった
+またbranchつくった
