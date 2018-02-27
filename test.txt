@@ -7,3 +7,4 @@ branchつくった
 またbranchつくった
 version2で変更
 Macの方で変更
+さらにvagrantから変更
