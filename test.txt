@@ -5,3 +5,4 @@ commmitした
 mergeした
 branchつくった
 またbranchつくった
+version2で変更
