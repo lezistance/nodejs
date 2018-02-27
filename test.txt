@@ -1,2 +1,5 @@
 test
 developで作業した
+commmitした
+またcommitした
+mergeした
